@@ -1,14 +1,37 @@
 ---
 title: ' '
 ---
+
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<H2>
 
+AI for Marketing
 
-<h4> Knime Workflows </h4>
+<h2>
+
+<br>
+
+<h4>[Worksheets]{.underline}</h4>
+
 <ul>
+
 <li>
-<p><strong>Setting Up Gemini Credentials</strong> <a href="01_Key.html" target="_blank" rel="noopener">Setting Up Gemini Credentials </a>  </p>
+
+<p><strong>Dalmiya-Four Quadrants and Capabilities</strong> <a href="Dalmiya-Four Quadrants and Capabilities.html" target="_blank" rel="noopener">Dalmiya-Four Quadrants and Capabilities </a></p>
+
 </li>
+
 </ul>
 
+<h4>[Knime Workflows]{.underline}</h4>
+
+<ul>
+
+<li>
+
+<p><strong>Setting Up Gemini Credentials</strong> <a href="01_Key.html" target="_blank" rel="noopener">Setting Up Gemini Credentials </a></p>
+
+</li>
+
+</ul>
