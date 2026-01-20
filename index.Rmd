@@ -56,3 +56,13 @@ AI for Marketing
 </li>
 
 </ul>
+
+<ul>
+
+<li>
+
+<p><strong>GeoSpatial Extension</strong> <a href="Setting Up Geographical Extension.html" target="_blank" rel="noopener">Setting Up the GeoSpatial Extension </a></p>
+
+</li>
+
+</ul>
