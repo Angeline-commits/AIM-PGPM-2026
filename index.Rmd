@@ -87,3 +87,13 @@ AI for Marketing
 
 </ul>
 
+<h4>[Class Material ]{.underline}</h4>
+```{r echo=FALSE, message=TRUE, warning=FALSE}
+library(vembedr)
+embed_url("https://youtu.be/xrCKERHk6JU")
+```
+
+
+
+
+
