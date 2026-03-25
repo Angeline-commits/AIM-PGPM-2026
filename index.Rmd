@@ -18,25 +18,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](/AIM-PGPM-2026/images/sessions.jpg)
 <br>
 
+<br>
+
+
+
 <h4>[Worksheets]{.underline}</h4>
-<p> Dalmiya News Article on AI implementation <a href=https://cio.economictimes.indiatimes.com/news/artificial-intelligence/dalmia-bharats-ai-bet-to-reinvent-sales-and-dealer-engagement/122945652" target="_blank" rel="noopener"> </p>
 
 <ul>
-
 <li>
-
-<p><strong>Dalmiya-Four Quadrants and Capabilities</strong> <a href="Dalmiya-Four Quadrants and Capabilities.html" target="_blank" rel="noopener">Dalmiya-Four Quadrants and Capabilities </a></p>
-
+<p>  <a href=https://cio.economictimes.indiatimes.com/news/artificial-intelligence/dalmia-bharats-ai-bet-to-reinvent-sales-and-dealer-engagement/122945652" target="_blank" rel="noopener">Dalmiya News Article on AI implementation </a></p>
 </li>
 
 </ul>
-
-
 <ul>
-
 <li>
-
-<p><strong>AI_Marketing_Canvas</strong> <a href="AI_Marketing_Canvas.html" target="_blank" rel="noopener">AI_Marketing_Canvas</a></p>
+<p><strong>Dalmiya-Four Quadrants and Capabilities</strong> <a href="Dalmiya-Four Quadrants and Capabilities.html" target="_blank" rel="noopener">Dalmiya-Four Quadrants and Capabilities </a></p>
 
 </li>
 
@@ -51,6 +47,8 @@ knitr::opts_chunk$set(echo = TRUE)
 </li>
 
 </ul>
+
+<h4>[Market Simulator GEM with synthetic persona]{.underline}</h4>
 
 <ul>
 
@@ -125,6 +123,16 @@ knitr::opts_chunk$set(echo = TRUE)
 </li>
 
 </ul>
+
+<ul>
+
+<li>
+<p><strong>Travel Agent2</strong> <a href="Travel-Agent-Check-Dest-Availability.html" target="_blank" rel="noopener">Travel-Agent-Check-Dest-Availability</a></p>
+
+</li>
+
+</ul>
+
 
 
 
