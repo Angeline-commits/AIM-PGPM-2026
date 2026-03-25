@@ -11,8 +11,11 @@ AI for Marketing
 <h2>
 
 <br>
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 <h4> [Sessions]{.underline}</h4>
-![](/images/sessions.jpg)
+![](/AIM-PGPM-2026/images/sessions.jpg)
 <br>
 
 <h4>[Worksheets]{.underline}</h4>
