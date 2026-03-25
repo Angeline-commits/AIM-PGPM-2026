@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 <h4>[Worksheets]{.underline}</h4>
-<p> https://cio.economictimes.indiatimes.com/news/artificial-intelligence/dalmia-bharats-ai-bet-to-reinvent-sales-and-dealer-engagement/122945652 </p>
+<p> Dalmiya News Article on AI implementation <a href=https://cio.economictimes.indiatimes.com/news/artificial-intelligence/dalmia-bharats-ai-bet-to-reinvent-sales-and-dealer-engagement/122945652" target="_blank" rel="noopener"> </p>
 
 <ul>
 
