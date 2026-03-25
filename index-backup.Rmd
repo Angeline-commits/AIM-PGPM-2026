@@ -11,9 +11,6 @@ AI for Marketing
 <h2>
 
 <br>
-<h4> [Sessions]{.underline}</h4>
-![](/AIM-PGPM-2026/images/sessions.jpg)
-<br>
 
 <h4>[Worksheets]{.underline}</h4>
 <p> https://cio.economictimes.indiatimes.com/news/artificial-intelligence/dalmia-bharats-ai-bet-to-reinvent-sales-and-dealer-engagement/122945652 </p>
@@ -29,33 +26,13 @@ AI for Marketing
 </ul>
 
 
-<ul>
-
-<li>
-
-<p><strong>AI_Marketing_Canvas</strong> <a href="AI_Marketing_Canvas.html" target="_blank" rel="noopener">AI_Marketing_Canvas</a></p>
-
-</li>
-
-</ul>
+ 
 
 <ul>
 
 <li>
 
 <p><strong>Dalmiya-AI_Marketing_Canvas</strong> <a href="Dalmiya-Canva.html" target="_blank" rel="noopener">Dalmiya AI_Marketing_Canvas</a></p>
-
-</li>
-
-</ul>
-
-<ul>
-
-<li>
-
-<p>Market Simulator GEM with synthetic persona for Fernando AG, Sivakumaran B, Suganthi L (2018), "Comparison of perceived acquisition value sought by online second-hand and new goods shoppers". European Journal of Marketing, Vol. 52 No. 7-8 pp. 1412–1438, doi: https://doi.org/10.1108/EJM-01-2017-0048</p>
-
-<p>https://gemini.google.com/gem/1uQbtIkbwMJtEToGx1tAAZGXQKsW-KeoE?usp=sharing</p>
 
 </li>
 
@@ -103,14 +80,12 @@ AI for Marketing
 
 </ul>
 
-<ul>
+<h4>[Class Material ]{.underline}</h4>
+```{r echo=FALSE, message=TRUE, warning=FALSE}
+library(vembedr)
+embed_url("https://youtu.be/xrCKERHk6JU")
+```
 
-<li>
-<p><strong>Simple Agent</strong> <a href="Travel-Agent-Basic.html" target="_blank" rel="noopener">Travel-Agent-Basic</a></p>
-
-</li>
-
-</ul>
 
 
 
