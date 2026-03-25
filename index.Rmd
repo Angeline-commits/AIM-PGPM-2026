@@ -106,6 +106,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </ul>
 
+
+<ul>
+
+<li>
+<p><strong>A basic RAG-Chatbot</strong> <a href="rag-bot.html" target="_blank" rel="noopener">Chatbot-simple RAG illustration</a></p>
+
+</li>
+
+</ul>
+
+
 <ul>
 
 <li>
